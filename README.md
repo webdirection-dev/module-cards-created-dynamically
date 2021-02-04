@@ -1,4 +1,4 @@
-# module-tabs-created-dynamically
+# module-cards-created-dynamically
 Модуль содержит скрипт динамически создаваемых карточек.
 
 
